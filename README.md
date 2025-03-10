@@ -1,4 +1,12 @@
 ## Hi there 👋
+My name is Andrew Garcia and this is my portfolio of all the projects I work on outside of school!
+These programs display my proficiency in programs such as:
+  * Microsoft Excel
+  * Python
+  * C#
+  * R/RStudio
+  * SQL
+
 
 <!--
 **andrewgarcia08/andrewgarcia08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
